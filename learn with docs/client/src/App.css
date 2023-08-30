@@ -1,0 +1,11 @@
+input {
+  font-size: larger;
+}
+button {
+  font-size: larger;
+  margin-left: 15px;
+}
+span{
+    padding: 5px;
+    background-color: orange;
+}
